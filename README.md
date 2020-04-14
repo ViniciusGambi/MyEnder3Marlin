@@ -1,3 +1,19 @@
+# My Ender 3 Marlin
+
+My changes to the Marlin Firmware to the Creality Ender 3 Printer for an upgrade with the MKS GEN L Board and TMC2208 drivers. 
+
+Setup:
+
+- MKS GEN L Board v1.0.
+- TMC2208 drivers on legacy mode on X, Y, Z axis.
+- A4988 driver on E0 extruder.
+- Original Display (CR10_STOCKDISPLAY).
+- Adjusted parameters for the Ender 3 movement settings.
+- Enables S_CURVE_ACCELERATION.
+- Enables BABY_STEPPING.
+- Enables THERMAL_RUNAWAY_PROTECTION.
+
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
