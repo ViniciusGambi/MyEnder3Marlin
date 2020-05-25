@@ -2,7 +2,7 @@
 
 My changes to the Marlin Firmware to the Creality Ender 3 Printer for an upgrade with the MKS GEN L Board and TMC2208 drivers. 
 
-## :construction_worker: My Setup
+### :construction_worker: My Setup
 
 - MKS GEN L Board v1.0.
 - TMC2208 drivers on legacy mode on X, Y, Z axis.
