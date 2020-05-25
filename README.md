@@ -13,6 +13,7 @@ My changes to the Marlin Firmware to the Creality Ender 3 Printer for an upgrade
 - Enables BABY_STEPPING.
 - Enables THERMAL_RUNAWAY_PROTECTION.
 
+<br />
 
 # Marlin 3D Printer Firmware
 
